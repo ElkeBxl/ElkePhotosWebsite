@@ -1,0 +1,8 @@
+/Users/elke/Websites/ElkePhotosWebsite/bin/Debug/netcoreapp1.1/ElkePhotosWebsite.deps.json
+/Users/elke/Websites/ElkePhotosWebsite/bin/Debug/netcoreapp1.1/ElkePhotosWebsite.runtimeconfig.json
+/Users/elke/Websites/ElkePhotosWebsite/bin/Debug/netcoreapp1.1/ElkePhotosWebsite.runtimeconfig.dev.json
+/Users/elke/Websites/ElkePhotosWebsite/bin/Debug/netcoreapp1.1/ElkePhotosWebsite.dll
+/Users/elke/Websites/ElkePhotosWebsite/bin/Debug/netcoreapp1.1/ElkePhotosWebsite.pdb
+/Users/elke/Websites/ElkePhotosWebsite/obj/Debug/netcoreapp1.1/ElkePhotosWebsite.AssemblyInfo.cs
+/Users/elke/Websites/ElkePhotosWebsite/obj/Debug/netcoreapp1.1/ElkePhotosWebsite.dll
+/Users/elke/Websites/ElkePhotosWebsite/obj/Debug/netcoreapp1.1/ElkePhotosWebsite.pdb
